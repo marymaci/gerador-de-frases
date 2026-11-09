@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #fff3e8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background: white;
+    padding: 30px;
+    width: 320px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 4px 15px #0002;
+}
+
+h1 {
+    color: #b85b20;
+}
+
+#frase {
+    min-height: 48px;
+    color: #444;
+    font-size: 19px;
+}
+
+button {
+    background: #d66b2b;
+    color: white;
+    border: 0;
+    padding: 12px 18px;
+    border-radius: 8px;
+    cursor: pointer;
+}
